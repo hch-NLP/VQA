@@ -1,2 +1,2 @@
 # VQA
-VQA resource
+Some open resource for VQA feild.
